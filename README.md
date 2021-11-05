@@ -5,4 +5,6 @@ Fast visual search using focussed color matching supported by C++
 
 histogram intersection by RGB
 
-skipping width 1
+局所色情報を用いた高速物体探索-アクティブ探索法-
+Fast Visual Search Using Focussed Color Matching-Active Search-
+link:https://ci.nii.ac.jp/naid/110003227955
