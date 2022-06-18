@@ -1,5 +1,5 @@
 # Active-Search
-Fast visual search using focussed color matching supported by C++
+Fast visual search using focussed color matching supported by C
 
 2021/11/5
 
